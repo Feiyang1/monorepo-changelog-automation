@@ -1,0 +1,17 @@
+{
+  "name": "monorepo-changelog-automation",
+  "version": "1.0.0",
+  "repository": "https://github.com/Feiyang1/monorepo-changelog-automation.git",
+  "author": "Feiyang1 <plane1113@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "lerna:version": "lerna version"
+  },
+  "dependencies": {
+    "lerna": "^3.20.2"
+  }
+}
