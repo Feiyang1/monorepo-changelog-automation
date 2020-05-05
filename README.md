@@ -1,1 +1,1 @@
-# monorepo-changelog-automtaion
+# monorepo-changelog-automation
