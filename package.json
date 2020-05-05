@@ -9,7 +9,7 @@
     "packages/*"
   ],
   "scripts": {
-    "lerna:version": "lerna version"
+    "lerna:version": "lerna version --conventional-commits"
   },
   "dependencies": {
     "lerna": "^3.20.2"
