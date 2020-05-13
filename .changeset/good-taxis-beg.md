@@ -2,4 +2,4 @@
 "workspace2": minor
 ---
 
-update api
+update api. Please add more detail
